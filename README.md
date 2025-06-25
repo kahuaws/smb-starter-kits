@@ -22,5 +22,8 @@ This starter kit deploys an automation solution to automate the deployment of Wo
 **Kit 5 - Amazon QBusiness Starter Kit**
 This starter kit deploys Amazon Q Business for you, using an S3 bucket and Web Crawlers that you specify as data sources for it's knowledge base. 
 
+**Kit 6 - Amazon Connect Starter Kit**
+This starter kit deploys Amazon Connect. By following this guide, you will deploy a fully functional, customer experience solution that enables voice, chat, and messaging interactions. 
+
 ## We welcome your feedback!
 Please feel free to raise issues or ask for feature requests. Distributors and Partners are encouraged to download these templates and customize them for their specific governance and use cases. 
